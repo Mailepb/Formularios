@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tickets>
+            
+
+    
+    <Ticket>
+                
+        <Tipo>Incidente</Tipo>
+                
+        <Descripcion>nbbfjhfghj</Descripcion>
+                
+        <Estado>Abierto</Estado>
+            
+    </Ticket>
+        
+    <Ticket>
+                
+        <Codigo>TICK-002</Codigo>
+                
+        <Tipo>Servicio</Tipo>
+                
+        <Descripcion>Uber</Descripcion>
+                
+        <Urgencia>Media</Urgencia>
+                
+        <Estado>Abierto</Estado>
+            
+    </Ticket>
+    
+    <Ticket>
+        <Codigo>TICK-003</Codigo>
+        <Tipo>Servicio</Tipo>
+        <Descripcion>Uber</Descripcion>
+        <Urgencia>Media</Urgencia>
+        <Estado>Abierto</Estado>
+    </Ticket>
+</Tickets>
